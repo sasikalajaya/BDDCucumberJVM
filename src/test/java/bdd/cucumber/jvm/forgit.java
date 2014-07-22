@@ -11,6 +11,7 @@ public class forgit {
     System.out.println("these are some of the changes for github cloud changes done in cloud");
 
         System.out.println("these are some of the changes for local repository done in intellij");
+        System.out.println("this is added in cloud to test the REBASE option under UPDATE in iDE");
 
 
     
