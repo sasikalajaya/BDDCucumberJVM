@@ -9,6 +9,10 @@ public class forgit {
 
         System.out.println("these are some of the changes for github ppush done in the local(intellij)");
     System.out.println("these are some of the changes for github cloud changes done in cloud");
+
+        System.out.println("these are some of the changes for local repository done in intellij");
+
+
     
     }
     
