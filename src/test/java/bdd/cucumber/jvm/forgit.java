@@ -13,6 +13,8 @@ public class forgit {
         System.out.println("these are some of the changes for local repository done in intellij");
         System.out.println("this is added in cloud to test the REBASE option under UPDATE in iDE");
 
+        System.out.println("this is added in IDE to test the REBASE option under UPDATE");
+
 
     
     }
