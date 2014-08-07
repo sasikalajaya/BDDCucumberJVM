@@ -1,4 +1,4 @@
-package bdd.cucumber.jvm;
+package cucumberjvm;
 
 
 import cucumber.api.PendingException;

@@ -1,0 +1,14 @@
+
+package cucumberjvm;
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+import org.junit.runner.RunWith;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(
+        format = {"html:target/HomePageReport"},
+        features = "src/test/resources/cucumberjvm/HomePage.feature"
+                )
+public class CucumberRunner {
+}
