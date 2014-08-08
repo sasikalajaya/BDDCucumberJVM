@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         format = {"html:target/HomePageReport"},
-        features = "src/test/resources/cucumberjvm/HomePage.feature"
+        features = "src/test/resources/cucumberjvm/AmazonWishList.feature"
                 )
 public class CucumberRunner {
 }
